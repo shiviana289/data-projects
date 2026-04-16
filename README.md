@@ -38,5 +38,5 @@ matplotlib · REST API
 
 ## About
 Shivi Anand — USC B.S. Global GeoDesign, Minor in Applied Analytics  
-Linkedin: https://www.linkedin.com/in/shivi-anand-45b88b1a6/
+Linkedin: https://www.linkedin.com/in/shivi-anand-45b88b1a6/ | 
 GIS Portfolio: https://storymaps.arcgis.com/stories/b42ef81d799745e9ae6fcf9e4fa0057d
